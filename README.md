@@ -3,7 +3,7 @@
 ## I'm a Fullstack Web Developer!
 - 🌱 I’m currently learning technologies required for any start up to succeed 🤣
 - 🔭 My growing skillset spans from creating professional UX, Arranging a React site with reusable components backed by wide variety of backend technologies.
-- 🥅 2020 Goals: Become productive and a superstar programmer.
+- 🥅 2021 Goals: Improve focus and become a superstar programmer.
 - ⚡ Hobbies: I love to compose music and write short stories.
 
 

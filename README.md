@@ -1,10 +1,9 @@
-### Hi there, I'm Karthick Ragavendran 👋
+### Hello, I'm Karthick Ragavendran 👋
 
 ## I'm a Fullstack Web Developer!
-- 🌱 I’m currently learning technologies required for any start up to succeed 🤣
 - 🔭 My growing skillset spans from creating professional UX, Arranging a React site with reusable components backed by wide variety of backend technologies.
-- 🥅 2021 Goals: Improve focus and become a superstar programmer.
-- ⚡ Hobbies: I love to compose music and write short stories.
+- 🥅 2022 Goals: Master deep focus and become a superstar programmer.
+- ⚡ Hobbies: I love to compose music and write stories.
 
 
 <img align="left" alt="Karthick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karthickthankyou&show_icons=true&hide_border=true" />

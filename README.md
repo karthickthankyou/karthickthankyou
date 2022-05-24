@@ -5,6 +5,18 @@
 - 🥅 2022 Goals: Master deep focus and become a superstar programmer.
 - ⚡ Hobbies: I love to compose music and write stories.
 
+Portfolio site: https://iamkarthick.com
+
+Extensive fullstack projects
+https://ikea.iamkarthick.com
+https://zillow.iamkarthick.com
+https://epic.iamkarthick.com
+
+I specialize in robust architecture with redux.
+Check out my articles on medium.com. 
+https://karthickragavendran.medium.com/
+
+
 
 <img align="left" alt="Karthick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karthickthankyou&show_icons=true&hide_border=true" />
 

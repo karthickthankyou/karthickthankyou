@@ -5,19 +5,31 @@
 - 🥅 2022 Goals: Master deep focus and become a superstar programmer.
 - ⚡ Hobbies: I love to compose music and write stories.
 
-Portfolio site: https://iamkarthick.com
+## Portfolio site: https://iamkarthick.com
 
-Extensive fullstack projects
-https://ikea.iamkarthick.com
-https://zillow.iamkarthick.com
-https://epic.iamkarthick.com
+## Extensive fullstack projects
+- https://ikea.iamkarthick.com
+- https://zillow.iamkarthick.com
+- https://epic.iamkarthick.com
+
+All three have dedicated UI component libraries. 
+- https://story.ikea.iamkarthick.com
+- https://story.zillow.iamkarthick.com
+- https://story.epic.iamkarthick.com
 
 I specialize in robust architecture with redux.
 Check out my articles on medium.com. 
-https://karthickragavendran.medium.com/
+- https://karthickragavendran.medium.com/
+
+
+## Looking for fully remote job.
+Reach me through my linkedin account.
+- https://www.linkedin.com/in/iamkarthickr/
 
 
 
 <img align="left" alt="Karthick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karthickthankyou&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickthankyou&layout=compact)](https://github.com/karthickthankyou/github-readme-stats)
+
+Thank you!

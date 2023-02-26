@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Web Developer!
 - 🔭 My growing skillset spans from creating professional UX, Arranging a React site with reusable components backed by wide variety of backend technologies.
-- 🥅 2022 Goals: Master deep focus and become a superstar programmer.
+- 🥅 2023 Goals: Master deep focus and become a superstar programmer.
 - ⚡ Hobbies: I love to compose music and write stories.
 
 ## Portfolio site: https://iamkarthick.com

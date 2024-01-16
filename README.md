@@ -1,13 +1,13 @@
 ### Hello, I'm Karthick Ragavendran 👋
 
 ## I'm a Fullstack Web Developer!
-- 🔭 My growing skillset spans from creating professional UX, Arranging a React site with reusable components backed by wide variety of backend technologies.
-- 🥅 2023 Goals: Master deep focus and become a superstar programmer.
+- 🔭 My growing skillset spans from creating professional UX to arranging a React site with reusable components backed by a wide variety of backend technologies.
+- 🥅 2024 Goals: Produce at Elite Level.
 - ⚡ Hobbies: I love to compose music and write stories.
 
 ## Portfolio site: https://iamkarthick.com
 
-## Extensive fullstack projects
+## Extensive full-stack projects
 - https://ikea.iamkarthick.com
 - https://zillow.iamkarthick.com
 - https://epic.iamkarthick.com
@@ -22,8 +22,8 @@ Check out my articles on medium.com. 
 - https://karthickragavendran.medium.com/
 
 
-## Looking for fully remote job.
-Reach me through my linkedin account.
+## Looking for a fully remote job.
+Reach me through my LinkedIn account.
 - https://www.linkedin.com/in/iamkarthickr/
 
 

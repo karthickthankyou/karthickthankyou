@@ -1,30 +1,46 @@
-### Hello, I'm Karthick Ragavendran 👋
+# Hello, I'm Karthick Ragavendran 👋
 
-## I'm a Fullstack Web Developer!
-- 🔭 My growing skillset spans from creating professional UX to arranging a React site with reusable components backed by a wide variety of backend technologies.
-- 🥅 2024 Goals: Produce at Elite Level.
-- ⚡ Hobbies: I love to compose music and write stories.
+I am a fullstack engineer who builds well-engineered applications.
+- DESIGN : 4/10
+- FRONTEND : 9/10
+- BACKEND : 8/10
 
-## Portfolio site: https://iamkarthick.com
+### Portfolio site: 
+https://karthicktech.com
+### Youtube channel: 
+https://www.youtube.com/@karthicktech
+### LinkedIn: 
+https://www.linkedin.com/in/iamkarthickr/
 
-## Extensive full-stack projects
-- https://ikea.iamkarthick.com
-- https://zillow.iamkarthick.com
-- https://epic.iamkarthick.com
+## Engineering Style
+### Highly Refactorable Code
+- Iterative, feedback-driven development without increasing technical debt.
+- Catch issues at compile time.
+- Configure TypeScript to find sync issues across the stack.
 
-All three have dedicated UI component libraries. 
-- https://story.ikea.iamkarthick.com
-- https://story.zillow.iamkarthick.com
-- https://story.epic.iamkarthick.com
+### Functional Programming
+- Write pure functions to easily pinpoint bugs.
 
-I specialize in robust architecture with redux.
-Check out my articles on medium.com. 
+### Improved Developer Experience
+- Utilize tools and techniques to reduce developers' cognitive load.
+
+## Extensive full-stack project tutorials on youtube
+- [RecycleChain](https://www.youtube.com/watch?v=Yr-jllDmwtE)
+- [Autospace](https://www.youtube.com/watch?v=iOWWmfMRqs0)
+- [Aicademy](https://www.youtube.com/watch?v=6bjJ_OfN8X8)
+- [Showtime!](https://www.youtube.com/watch?v=FQywQI5U1os)
+- [AI News Editors](https://www.youtube.com/watch?v=q6ZzkbhGQEU)
+- [SupplyChainX](https://www.youtube.com/watch?v=IbZU_uFNB00)
+- [FoundationX](https://www.youtube.com/watch?v=rWj1V_7vBRE)
+- [tRPC monorepo](https://www.youtube.com/watch?v=8HJ15-OgQ1s)
+
+Isolated UI Component Libraries with Storybook 
+- https://story.ikea.karthicktech.com
+- https://story.zillow.karthicktech.com
+- https://story.epic.karthicktech.com
+
+Articles on Medium
 - https://karthickragavendran.medium.com/
-
-
-## Looking for a fully remote job.
-Reach me through my LinkedIn account.
-- https://www.linkedin.com/in/iamkarthickr/
 
 
 

@@ -1,9 +1,9 @@
 # Hello, I'm Karthick Ragavendran 👋
 
 I am a fullstack engineer who builds well-engineered applications.
-- DESIGN : 4/10
 - FRONTEND : 9/10
 - BACKEND : 8/10
+- DESIGN : 4/10
 
 ### Portfolio site: 
 https://karthicktech.com
